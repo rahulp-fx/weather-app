@@ -14,6 +14,9 @@
 .search-bar{
     display: flex;
     align-items: center; 
+    justify-content: space-between;
+    flex-wrap: wrap;  /* Allow wrapping on small screens */
+    width: 100%;
     gap: 12px;
 }
 
