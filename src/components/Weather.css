@@ -21,7 +21,7 @@
 
 .search-bar input{
     height: 50px;
-    width: auto;
+    width: 80%;
     border: none;
     outline: none;
     border-radius: 40px;
